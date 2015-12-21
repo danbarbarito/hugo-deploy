@@ -1,4 +1,4 @@
-package hugodeploy
+package main
 
 //import "fmt"
 import "os/exec"
