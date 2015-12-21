@@ -1,5 +1,5 @@
 # hugo-deploy
-### Easily deploy your Hugo sites
+### Easily deploy your Hugo sites to Github Pages
 
 -------------
 
